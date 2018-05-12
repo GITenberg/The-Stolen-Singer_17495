@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '7425'
     url: http://www.gutenberg.org/2009/agents/7425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17495#The-Stolen-Singer
 gutenberg_issued: '2006-01-11'
 gutenberg_type: Text
 identifiers:
