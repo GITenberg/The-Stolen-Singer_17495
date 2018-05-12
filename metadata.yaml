@@ -1,0 +1,35 @@
+_repo: The-Stolen-Singer_17495
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Arthur William
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '6352'
+    url: http://www.gutenberg.org/2009/agents/6352
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bellinger, Martha Idell Fletcher
+    birthdate: 1870
+    deathdate: 1960
+    gutenberg_agent_id: '7425'
+    url: http://www.gutenberg.org/2009/agents/7425
+description: ''
+gutenberg_issued: '2006-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Singers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: The Stolen Singer
+url: http://www.gutenberg.org/ebooks/17495
